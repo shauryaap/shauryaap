@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shaurya 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F75434&width=435&lines=Hi!+I'm+Shaurya)](https://git.io/typing-svg) 👋
 
 🎓 MBA Business Analytics Student at NIT Surat  
 📊 Interested in Data Analytics, Finance & Power BI  
