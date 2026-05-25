@@ -32,5 +32,5 @@
 - LinkedIn: www.linkedin.com/in/
 shaurya-917404172
 
-https://readme-typing-svg.demolab.com/demo/?lines=New+Projects+are+coming+soon
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=New+Projects+are+coming+soon)](https://git.io/typing-svg)
 
