@@ -10,7 +10,7 @@
 ## 🛠 Skills
 - Power BI
 - SQL
-#3776AB Python
+- Python
 - Excel
 - Financial Analysis
 
