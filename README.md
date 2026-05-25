@@ -29,11 +29,13 @@
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: your-link
+- LinkedIn: www.linkedin.com/in/
+shaurya-917404172
+
 - Portfolio: your-link## Hi there 👋
 
 <!--
-**shauryaap/shauryaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)**shauryaap/shauryaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
