@@ -10,7 +10,7 @@
 ## 🛠 Skills
 - Power BI
 - SQL
-- Python
+- Python![Static Badge](https://img.shields.io/badge/Python)
 - Excel
 - Financial Analysis
 
